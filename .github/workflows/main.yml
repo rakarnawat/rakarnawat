@@ -9,11 +9,12 @@ on:
   push:
     branches:
     - master
-
+permissions:
+  contents: write
 jobs:
   generate:
     runs-on: ubuntu-latest
-
+    
     steps:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
