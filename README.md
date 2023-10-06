@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Rohit Karnawat</h2>
 
 ###
-
+<p>I am a passionate full-stack developer who excels in designing fluid web applications. Driven by my passion for coding and my aptitude for solving complex problems, I turn ideas into intuitive, functional software solutions.</p>
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakarnawat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  /> -->
 <!--   <img src="https://streak-stats.demolab.com?user=rakarnawat&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  /> -->
