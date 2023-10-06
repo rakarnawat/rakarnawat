@@ -35,7 +35,7 @@
  <br>
 <!--  -----------------------------------------Backend----------------------------------------------- -->
   <div>
-  <p><b>BACKEND TECHNOLOGIES</b></p>
+  <p><b>BACKEND</b></p>
    <img src="https://oriontech.files.wordpress.com/2010/11/java.png" height="30" alt="JavaBeans"  />
   <img width="12" />
    <img src="https://images.ctfassets.net/gt6dp23g0g38/5DqlQtFKecFlkqQ8YGDT2p/aa945b648f44dd872e9a1b89f7d203ef/springboot.png" height="30" alt="Spring Boot"  />
@@ -56,7 +56,7 @@
     <br>
   <!--  -----------------------------------------Frontend----------------------------------------------- -->  
  <div>
-  <p><b>FRONTEND TECHNOLOGIES</b></p>
+  <p><b>FRONTEND</b></p>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
      <img width="12" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -79,7 +79,7 @@
  <br>
  <!--  -----------------------------------------Database----------------------------------------------- -->
   <div>
-  <p><b>DATABASE TECHNOLOGIES</b></p>
+  <p><b>DATABASE</b></p>
    <img src="https://cdn-icons-png.flaticon.com/512/5105/5105127.png" height="30" alt="Hibernate"  />
    <img width="12" /> 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB logo"  />
